@@ -1,0 +1,604 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f3f5f7;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.center {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.header {
+    padding: 30px 0;
+    width: 1200px;
+    height: 40px;
+}
+
+.logo1 {
+    float: left;
+    margin-right: 15px;
+}
+
+.first {
+    float: left;
+    height: 45px;
+    margin-left: 35px;
+}
+
+.first li {
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+    margin: 0 13px;
+}
+
+.first a {
+    color: black;
+}
+
+.first li:hover {
+    border-bottom: 3px solid #00a4ff;
+}
+
+.sousuo {
+    float: left;
+    margin-left: 70px;
+    margin-right: 25px;
+}
+
+.sousuo input {
+    float: left;
+    text-indent: 20px;
+    border: 2px solid #00a4ff;
+    border-right: 0;
+    width: 360px;
+    height: 40px;
+}
+
+.sousuo button {
+    float: left;
+    width: 50px;
+    height: 44px;
+    border: 0;
+    background-color: #00a4ff;
+}
+
+.sousuo button:active {
+    box-shadow: 0 0 10px 30px rgba(0, 0, 0, .2) inset;
+}
+
+.sousuo button img {
+    width: 18px;
+    height: 18px;
+}
+
+.person {
+    float: left;
+    padding-top: 7px;
+}
+
+.person img {
+    float: left;
+}
+
+.person h4 {
+    float: left;
+    font-weight: 450;
+    font-size: 14px;
+    margin: 3px 0 0 4px;
+    color: #7e7e7f;
+}
+
+.second {
+    height: 420px;
+    background-color: #1c036c;
+}
+
+.second1 {
+    width: 1200px;
+    height: 420px;
+}
+
+.second1 {
+    background: url(img/centerlogo.png);
+}
+
+.second1left {
+    float: left;
+    width: 150px;
+    height: 396px;
+    color: white;
+    padding: 24px 20px 0 20px;
+    background-color: rgba(0, 0, 0, .3);
+}
+
+.second1left ul {
+    float: left;
+    width: 150px;
+    height: 396px;
+}
+
+.second1left li {
+    height: 20px;
+    margin-bottom: 24px;
+}
+
+.second1left a {
+    font-weight: normal;
+    color: white;
+}
+
+.second1left a:hover {
+    color: #00b4ff;
+}
+
+.second1left h4 {
+    font-size: 14px;
+    float: left;
+}
+
+.second1left h5 {
+    font-size: 14px;
+    float: right;
+}
+
+.second1middle {
+    position: relative;
+    float: left;
+    top: 366px;
+    left: 307px;
+    width: 185px;
+    height: 15px;
+}
+
+.second1middle div {
+    float: left;
+    width: 14px;
+    height: 14px;
+    margin-right: 10px;
+    background-color: #64b6e6;
+    border: 1px solid #64b6e6;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.second1middle div:hover {
+    width: 20px;
+    background-color: #fafafa;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+.second1right {
+    float: right;
+    width: 230px;
+    height: 300px;
+    margin: 50px 0 70px 0;
+}
+
+.second1righttop {
+    height: 24px;
+    padding: 11px 70px;
+    background-color: #9bceea;
+}
+
+.second1righttop h4 {
+    font-size: 18px;
+    color: white;
+}
+
+.second1rightmiddle {
+    background-color: #fff;
+}
+
+.second1rightmiddle li {
+    width: 166px;
+    height: 35px;
+    padding: 20px 48px 20px 18px;
+    border-bottom: 1px solid #bdbdbd;
+}
+
+.second1rightmiddle a:hover {
+    color: #00a4ff;
+}
+
+.second1rightmiddle p {
+    font-size: 14px;
+    color: #bdbdbd;
+}
+
+.second1rightmiddle a {
+    color: black;
+}
+
+.second1rightbottom {
+    background-color: #fff;
+}
+
+.second1rightbottomcenter a {
+    color: #00a4ff;
+}
+
+.second1rightbottomcenter a:hover {
+    color: red;
+}
+
+.second1rightbottom {
+    width: 200px;
+    height: 40px;
+    padding: 5px 15px 12px;
+}
+
+.second1rightbottomcenter {
+    width: 70px;
+    height: 20px;
+    padding: 12px 65px;
+    border: 2px solid #00a4ff;
+}
+
+.third {
+    width: 1200px;
+    height: 67px;
+    background-color: #ffffff;
+}
+
+.thirdleft {
+    float: left;
+    width: 890px;
+    height: 15px;
+    padding: 30px 0 20px 35px;
+}
+
+.thirdleft li {
+    float: left;
+    border-right: 1px solid black;
+    padding: 0 35px;
+}
+
+.thirdleft a {
+    color: black;
+}
+
+.thirdleft a:hover {
+    color: #00a4ff;
+}
+
+.thirdleft li:first-child {
+    padding-left: 0;
+}
+
+.thirdleft li:last-child {
+    border-right: 0;
+}
+
+.thirdright {
+    float: right;
+    width: 90px;
+    height: 15px;
+    padding: 25px 0;
+}
+
+.thirdright a {
+    font-size: 14px;
+    color: #00a4ff;
+}
+
+.thirdright a:hover {
+    color: red;
+}
+
+.fourthtop {
+    height: 75px;
+}
+
+.fourthtopleft {
+    float: left;
+    width: 80px;
+    height: 25px;
+    padding: 33px 0 17px;
+}
+
+.fourthtopright {
+    float: right;
+    width: 80px;
+    height: 20px;
+    padding: 40px 5px 15px;
+}
+
+.fourthtopright a,
+.fifthtop a,
+.sixthtop a,
+.seventhtop a,
+.eighthtop a {
+    float: right;
+    color: black;
+    font-size: 12px;
+    padding: 30px 40px 23px;
+}
+
+.fourthmiddle0 {
+    float: left;
+    width: 228px;
+    height: 273px;
+    margin-right: 12px;
+}
+
+.fourthmiddle1 {
+    background: url("img/图层 133.png") no-repeat;
+}
+
+.fourthmiddle2 {
+    background: url("img/图层 135.png") no-repeat;
+}
+
+.fourthmiddle3 {
+    background: url("img/图层 136.png") no-repeat;
+}
+
+.fourthmiddle4 {
+    background: url("img/图层 137.png") no-repeat;
+}
+
+.fourthmiddle5 {
+    background: url("img/图层 137.png") no-repeat;
+    margin-right: 0;
+}
+
+.fourthmiddle6 {
+    background: url("img/图层 133.png") no-repeat;
+}
+
+.fourthmiddle7 {
+    background: url("img/图层 135.png") no-repeat;
+}
+
+.fourthmiddle8 {
+    background: url("img/图层 136.png") no-repeat;
+}
+
+.fourthmiddle9 {
+    background: url("img/图层 137.png") no-repeat;
+}
+
+.fourthmiddle10 {
+    background: url("img/图层 137.png") no-repeat;
+}
+
+.fourthmiddle p,
+.sixthmiddle p,
+.seventhmiddle p,
+.fifthmiddle p,
+.eighthmiddle p {
+    font-size: 14px;
+    width: 185px;
+    height: 35px;
+    padding: 180px 20px 0 25px;
+}
+
+.fourthmiddle a,
+.fifthmiddle a,
+.sixthmiddle a,
+.seventhmiddle a,
+.eighthmiddle a {
+    color: black;
+}
+
+.fourthmiddle a:hover,
+.fifthmiddle a:hover,
+.sixthmiddle a:hover,
+.seventhmiddle a:hover,
+.eighthmiddle a:hover {
+    color: #00a4ff;
+}
+
+.fourthmiddle .fourthmiddle11,
+.fifthmiddle .fifthmiddle11,
+.sixthmiddle .sixthmiddle11,
+.seventhmiddle .seventhmiddle11,
+.eighthmiddle .eighthmiddle11 {
+    width: 130px;
+    height: 15px;
+    padding: 20px 80px 25px 25px;
+}
+
+.fourthmiddle h4,
+.fifthmiddle h4,
+.sixthmiddle h4,
+.seventhmiddle h4,
+.eighthmiddle h4 {
+    color: #ff7c2d;
+    float: left;
+}
+
+span {
+    float: left;
+}
+
+.fifthtop h3,
+.sixthtop h3,
+.seventhtop h3,
+.eighthtop h3 {
+    float: left;
+    padding: 30px 0 20px;
+}
+
+.fifthtopmiddle {
+    float: left;
+    height: 15px;
+    margin: 45px 200px 20px 350px;
+}
+
+.fifthtopmiddle li,
+.sixthtopmiddle li,
+.seventhtopmiddle li,
+.eighthtopmiddle li {
+    width: 35px;
+    height: 25px;
+    float: left;
+    font-size: 16px;
+    margin-right: 73px;
+}
+
+.fifthmiddleleft,
+.sixthmiddleleft {
+    float: left;
+    width: 230px;
+    height: 385px;
+    background: url("img/图层 148.png");
+}
+
+.fifthmiddletop,
+.sixthmiddletop {
+    float: left;
+    width: 950px;
+    height: 100px;
+    background: url("img/图层 152.png");
+    margin-left: 10px;
+}
+
+.fifthmiddle1,
+.sixthmiddle1,
+.seventhmiddle1,
+.eighthmiddle1 {
+    background: url("img/图层 145.png") no-repeat;
+    margin-right: 14px;
+    margin-top: 15px;
+}
+
+.fifthmiddle2,
+.sixthmiddle2,
+.seventhmiddle2,
+.eighthmiddle2 {
+    background: url("img/图层 146.png") no-repeat;
+    margin-right: 14px;
+    margin-top: 15px;
+}
+
+.fifthmiddle3,
+.sixthmiddle3,
+.seventhmiddle3,
+.eighthmiddle3 {
+    background: url("img/图层 143.png") no-repeat;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.fifthmiddle4,
+.sixthmiddle4,
+.seventhmiddle4,
+.eighthmiddle4 {
+    background: url("img/图层 144.png") no-repeat;
+    margin-top: 15px;
+}
+
+.fifthmiddle4 {
+    margin-right: 15px;
+}
+
+.sixthmiddle4,
+.seventhmiddle4,
+.eighthmiddle4 {
+    margin-right: 5px;
+}
+
+.sixthtopmiddle,
+.seventhtopmiddle,
+.eighthtopmiddle {
+    float: left;
+    height: 15px;
+    margin: 45px 100px 20px 350px;
+}
+
+.sixthtop a,
+.seventhtop a,
+.eighthtop a {
+    float: right;
+    padding: 40px 40px 23px;
+}
+
+.seventhmiddle5,
+.eighthmiddle5 {
+    background: url("img/图层 144.png") no-repeat;
+    margin-top: 15px;
+}
+
+.lastcenterlefttop {
+    width: 200px;
+    height: 45px;
+    padding: 30px 400px 20px 20px;
+}
+
+.lastleft {
+    float: left;
+}
+
+.last {
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+    background-color: #fff;
+    height: 420px;
+}
+
+.lastcenterleftmiddle {
+    width: 510px;
+    height: 35px;
+    padding: 0 0 15px 20px;
+}
+
+.lastcenterleftmiddle p {
+    font-size: 14px;
+    color: #666666;
+}
+
+.lastcenterleftbottom {
+    width: 66px;
+    height: 16px;
+    padding: 7px 30px 10px 28px;
+    margin-left: 20px;
+    border: 2px solid #00a4ff;
+}
+
+.lastcenterleftbottom h4 {
+    color: #00a4ff;
+}
+
+.lastmiddle1 {
+    float: left;
+    width: 100px;
+    height: 130px;
+    padding: 35px 140px 0 0;
+}
+
+.lastmiddle1 h4 {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.lastmiddle1 li {
+    margin-bottom: 10px;
+}
+
+.lastmiddle1 a {
+    color: black;
+    font-size: 12px;
+}
