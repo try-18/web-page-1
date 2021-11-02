@@ -338,13 +338,6 @@ a {
 .sixthtop a,
 .seventhtop a,
 .eighthtop a {
-    color: black;
-}
-
-.fifthtop>a,
-.sixthtop>a,
-.seventhtop>a,
-.eighthtop>a {
     float: right;
     color: black;
     font-size: 12px;

@@ -331,33 +331,17 @@ a {
     float: right;
     color: black;
     font-size: 12px;
-    padding: 36px 25px 0 0;
+    padding: 30px 15px;
 }
 
 .fifthtop a,
 .sixthtop a,
 .seventhtop a,
 .eighthtop a {
-    color: black;
-}
-
-.fifthtop>a,
-.sixthtop>a,
-.seventhtop>a,
-.eighthtop>a {
     float: right;
     color: black;
     font-size: 12px;
-    margin: 51px 25px 0 0;
-}
-
-.fourthtopright a:hover,
-.fifthtop a:hover,
-.sixthtop a:hover,
-.seventhtop a:hover,
-.eighthtop a:hover {
-    color: #00a4ff;
-    text-decoration: underline;
+    margin: 50px 15px 0 0;
 }
 
 .fourthmiddle0 {
@@ -557,7 +541,7 @@ span {
 .seventhmiddle5,
 .eighthmiddle5 {
     background: url("img/图层 144.png") no-repeat;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 .lastcenterlefttop {

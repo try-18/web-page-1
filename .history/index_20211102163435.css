@@ -339,6 +339,7 @@ a {
 .seventhtop a,
 .eighthtop a {
     color: black;
+    width: 20px;
 }
 
 .fifthtop>a,

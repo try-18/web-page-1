@@ -338,26 +338,10 @@ a {
 .sixthtop a,
 .seventhtop a,
 .eighthtop a {
-    color: black;
-}
-
-.fifthtop>a,
-.sixthtop>a,
-.seventhtop>a,
-.eighthtop>a {
     float: right;
     color: black;
     font-size: 12px;
     margin: 51px 25px 0 0;
-}
-
-.fourthtopright a:hover,
-.fifthtop a:hover,
-.sixthtop a:hover,
-.seventhtop a:hover,
-.eighthtop a:hover {
-    color: #00a4ff;
-    text-decoration: underline;
 }
 
 .fourthmiddle0 {
