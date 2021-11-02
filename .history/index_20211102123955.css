@@ -603,13 +603,13 @@ span {
 }
 
 .left {
-    width: 120px;
-    height: 220px;
+    width: 110px;
+    height: 230px;
     position: fixed;
-    padding: 28px 10px 0 10px;
+    padding: 28px 50px 0 30px;
     top: 200px;
-    left: 5px;
-    background-color: #fff;
+    left: 50px;
+    background-color: rgba(0, 0, 0, .3);
 }
 
 .left li {
@@ -622,11 +622,4 @@ span {
 
 .left li a:hover {
     color: #00a4ff;
-}
-
-.hot img {
-    float: right;
-    width: 40px;
-    height: 28px;
-    margin: 5px -3px 0 0;
 }
