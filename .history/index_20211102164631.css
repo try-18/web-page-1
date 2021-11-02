@@ -605,8 +605,7 @@ span {
 }
 
 .lastmiddle {
-    float: left;
-    width: 570px;
+    width: 515px;
     height: 150px;
 }
 
@@ -614,12 +613,7 @@ span {
     float: left;
     width: 100px;
     height: 130px;
-    padding: 35px 135px 0 0;
-}
-
-.lastmiddle1:last-child {
-    width: 80px;
-    padding: 35px 10px 0 0;
+    padding: 35px 140px 0 0;
 }
 
 .lastmiddle1 h4 {
@@ -648,7 +642,7 @@ span {
     padding: 28px 10px 0 10px;
     top: 200px;
     left: 5px;
-    background-color: #88ccf0;
+    background-color: #00a4ff;
 }
 
 .left li {

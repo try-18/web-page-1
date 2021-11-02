@@ -577,6 +577,10 @@ span {
     height: 420px;
 }
 
+.lastcenter {
+    float: left;
+}
+
 .lastcenterleftmiddle {
     width: 510px;
     height: 35px;
@@ -648,7 +652,7 @@ span {
     padding: 28px 10px 0 10px;
     top: 200px;
     left: 5px;
-    background-color: #88ccf0;
+    background-color: #00a4ff;
 }
 
 .left li {

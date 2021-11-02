@@ -570,7 +570,6 @@ span {
 }
 
 .last {
-    float: left;
     width: 100%;
     margin-top: 40px;
     background-color: #fff;
@@ -648,7 +647,7 @@ span {
     padding: 28px 10px 0 10px;
     top: 200px;
     left: 5px;
-    background-color: #88ccf0;
+    background-color: #00a4ff;
 }
 
 .left li {
