@@ -440,13 +440,9 @@ a {
 .sixthmiddle .sixthmiddle11,
 .seventhmiddle .seventhmiddle11,
 .eighthmiddle .eighthmiddle11 {
-    width: 131px;
+    width: 130px;
     height: 15px;
     padding: 20px 80px 25px 25px;
-}
-
-span {
-    color: #999999;
 }
 
 .fourthmiddle h4,
@@ -673,4 +669,8 @@ span {
     width: 40px;
     height: 28px;
     margin: 5px -3px 0 0;
+}
+
+span {
+    color: #999999;
 }
