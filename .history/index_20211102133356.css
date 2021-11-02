@@ -468,7 +468,7 @@ span {
 .sixthmiddleleft {
     float: left;
     width: 230px;
-    height: 370px;
+    height: 385px;
     background: url("img/图层 148.png");
 }
 
@@ -478,7 +478,7 @@ span {
     width: 950px;
     height: 100px;
     background: url("img/图层 152.png");
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
 .fifthmiddle1,
@@ -487,7 +487,7 @@ span {
 .eighthmiddle1 {
     background: url("img/图层 145.png") no-repeat;
     margin-right: 14px;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 .fifthmiddle2,
@@ -496,7 +496,7 @@ span {
 .eighthmiddle2 {
     background: url("img/图层 146.png") no-repeat;
     margin-right: 14px;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 .fifthmiddle3,
@@ -505,7 +505,7 @@ span {
 .eighthmiddle3 {
     background: url("img/图层 143.png") no-repeat;
     margin-right: 15px;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 .fifthmiddle4,
@@ -513,7 +513,7 @@ span {
 .seventhmiddle4,
 .eighthmiddle4 {
     background: url("img/图层 144.png") no-repeat;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 .fifthmiddle4 {
