@@ -321,10 +321,16 @@ a {
     float: right;
     width: 80px;
     height: 20px;
-    padding: 40px 5px 15px;
+    padding: 10px 5px 15px;
 }
 
-.fourthtopright a,
+.fourthtopright a {
+    float: right;
+    color: black;
+    font-size: 12px;
+    padding: 30px 15px;
+}
+
 .fifthtop a,
 .sixthtop a,
 .seventhtop a,
@@ -332,7 +338,7 @@ a {
     float: right;
     color: black;
     font-size: 12px;
-    padding: 30px 40px 23px;
+    padding: 30px 15px;
 }
 
 .fourthmiddle0 {
@@ -526,13 +532,6 @@ span {
     float: left;
     height: 15px;
     margin: 45px 100px 20px 350px;
-}
-
-.sixthtop a,
-.seventhtop a,
-.eighthtop a {
-    float: right;
-    padding: 40px 40px 23px;
 }
 
 .seventhmiddle5,
